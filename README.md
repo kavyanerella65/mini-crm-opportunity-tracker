@@ -4,7 +4,7 @@ A full-stack MERN application for tracking a shared sales opportunity pipeline: 
 
 Built for the CEOFactory.vc MERN Stack Developer Assignment.
 
-- **Live application:** _add your deployed frontend URL here_
+- **Live application:** https://mini-crm-opportunity-tracker-five.vercel.app
 - **Backend API:** https://mini-crm-opportunity-tracker-y192.onrender.com
 - **Repository:** https://github.com/kavyanerella65/mini-crm-opportunity-tracker
 
